@@ -1,0 +1,6 @@
+framework module BGScanQR {
+  umbrella header "BGScanQR-umbrella.h"
+
+  export *
+  module * { export * }
+}
