@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BGScanQR_Example' do
+  pod 'BGScanQR', :path => '../'
+
+  target 'BGScanQR_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
