@@ -13,12 +13,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-BGScanQR is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod "BGScanQR"
-```
+暂时不提交至trunk,公司项目需要在GitLib上作为私有库使用,请谅解!
+下载zip,将BGScanQR.h/m拖入项目即可.
 
 ## Author
 
